@@ -1,6 +1,6 @@
 # DotNetCoreMySql
 DotNet Core with MySQL Sample 
 
-# ¬[ºc
-# »¡©ú
-- ½Ðª`·Nª©¥»
+# æž¶æ§‹
+# èªªæ˜Ž
+- è«‹æ³¨æ„ç‰ˆæœ¬
